@@ -1,0 +1,115 @@
+= The Onyx Language Foundation
+Vladislav Kosarev <mail@vladfaust.com>
+30.05.2020
+:numbered: true
+
+_The Onyx language foundation_ [hereby the *Foundation*] is a non-profit legal entity.
+
+[[mission]]
+== Mission
+
+The Foundation serves the following mission.
+
+_To develop the Onyx programming language and its ecosystem [hereby *Onyx*] for the greater good of the human civilization._
+
+[[goals]]
+== Goals
+
+The Foundation defines the following goals [hereby the *Goals*] in no particular order.
+
+* An immortality of human consciousness.
+This can be achieved by (but not limited to) the following means:
+
+** Learning how to cure fatal biological and psychological diseases such as aging, Alzheimer's, and cancer to prevent a human mind from death.
+
+** Developing an ability to move or copy a human consciousness to another storage.
+
+* A physical human expansion to other cosmic entities for the sake of more energy sources.
+
+* A continuous expansion of human knowledge about the world and themselves.
+
+[[principles]]
+== Principles
+
+The Foundation defines the following principles.
+
+* Serve the humanity at its whole, thus being cosmopolitan and inclusive.
+
+* Follow principles of meritocracy.
+
+* Reduce the harm from actors contradicting with the xref:mission[Mission] as much as possible.
+
+[[statements]]
+== Statements
+
+To achieve its xref:goals[Goals], the Foundation states the following.
+
+A language that is easier to interpret and express unambiguously (i.e. with a better design) leads to lesser mental, hence time and energy, resources spent to convey the same amount of information.
+
+A faster conveying of information leads to a faster solving of a problem.
+
+Thus, a programming language with better design allows solving problems faster.
+
+A programming language designed with machinery performance in mind opens opportunities for more optimal usage of energy.
+
+A programming language allowing to solve problems faster with better resource utilization attracts businesses solving their problems with programming.
+
+Faster solving of problems by businesses gives them an ability to solve more problems at the same time. 
+This leads to faster development of the human civilization, which is aligned with the xref:goals[Goals].
+
+Lead by the will to support the development of the language and its ecosystem, to make use of the aforementioned xref:platform[Platform] the Foundation offers, and to help the Foundation to achieve its xref:goals[Goals]; businesses invest resources into the language, its ecosystem, and the Foundation.
+
+Resources invested into the Foundation are distributed per the aforementioned xref:resource-distribution[resource distribution list], which helps to serve the xref:mission[Mission] and achieve the xref:goals[Goals].
+
+[[platform]]
+== Platform
+
+The Foundation develops and supports a software platform [hereby the *Platform*] designated to serve the xref:mission[Mission].
+The platform consists of the following.
+
+* The forum.
+A place to discuss and affect the development of the Onyx language and its ecosystem, and the Foundation itself.
+
+* The chat.
+A place to communicate synchronously with members of the community.
+
+* The knowledgebase.
+A database of questions and answers related to Onyx.
+
+* The package repository.
+Storage for reusable packages for the Onyx language.
+
+* The academy.
+A place to share experience related to Onyx in the form of books, courses, etc.
+
+* The jobs board.
+A place for businesses to hire humans for Onyx-related jobs.
+
+* The fund.
+Software to provide control for the resources distribution per the aforementioned xref:resource-distribution[resource distribution list].
+
+* The source code repository.
+A place for storing specifications, the platform itself, and some packages source code.
+
+[[resource-distribution]]
+== Resource Distribution
+
+The Foundation distributes incoming resources between the following destinations in no particular order of significance.
+
+* Sponsoring the development of the Onyx language specification and other adopted specifications.
+
+* Encouraging the adoption of Onyx by sponsoring applications using it and/or having goals aligned with the Foundation's.
+
+* Sponsoring the development of reusable packages for the Onyx language based on the utility value and /or popularity of a package.
+
+* Sponsoring tools for users of Onyx.
+
+* Increasing Onyx adoption by sponsoring learning resources related to the language and its ecosystem, including books and training courses.
+
+* Sponsoring Onyx-related events.
+
+* Sponsoring academic research aligned with the xref:goals[Goals].
+
+* Sponsoring valuable community members.
+
+* Sponsoring the xref:platform[Platform] sustenance and development.
